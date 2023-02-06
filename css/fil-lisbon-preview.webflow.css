@@ -924,7 +924,8 @@ a {
 }
 
 .div-h1 {
-  margin-bottom: 30px;
+  margin-bottom: 30px
+  font-size: 12px;
 }
 
 .paragraph-7 {
@@ -1612,8 +1613,8 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 50%;
-  height: auto;
+  width: 30%;
+  height: 30%;
   -webkit-box-pack: end;
   -webkit-justify-content: flex-end;
   -ms-flex-pack: end;
@@ -1626,7 +1627,7 @@ a {
   -ms-flex-item-align: stretch;
   align-self: stretch;
   background-image: url('../images/Rectangle-3045.png');
-  background-position: 50% 50%;
+  background-position: 20% 20%;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1658,7 +1659,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f7efd4;
-  background-image: url('../images/Banner-Site-2.png');
+  background-image: url('../images/austindark.png');
   background-position: 100% 100%;
   background-size: auto 60%;
   background-repeat: no-repeat;
@@ -4496,6 +4497,7 @@ a {
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: flex-start;
+   
   }
 
   .main-section-2 {
