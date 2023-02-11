@@ -1,1 +1,1 @@
-# repo dedicated to the public website for the Austin Filecoin Cohert
+# Repo dedicated to the public website for the Austin Filecoin Orbit Community
