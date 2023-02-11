@@ -1268,9 +1268,9 @@ a {
 .icon-hands {
   position: relative;
   z-index: 1;
-  width: 50%;
-  padding-top: 200px;
-  padding-left: 200;
+  width: 20%;
+  padding-top: 100px;
+  padding-left: 0px;
 }
 
 .text-2 {
