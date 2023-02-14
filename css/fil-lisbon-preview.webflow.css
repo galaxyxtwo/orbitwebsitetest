@@ -180,7 +180,7 @@ a {
   align-items: center;
 }
 
-/* image for the bottom left of the footer*/
+/* color for footer and image for the bottom left of the footer*/
 .footer-dark {
   position: relative;
   display: -webkit-box;
@@ -199,7 +199,7 @@ a {
   -ms-flex-pack: justify;
   justify-content: space-between;
   border-bottom: 0px none #e4ebf3;
-  background-color: #003662;
+  background-color: #691d19;
   background-image: url('');
   background-position: 0% 50%;
   background-size: auto 100%;
@@ -307,8 +307,9 @@ a {
   text-transform: uppercase;
 }
 
+/* color for the hover on the buttons*/
 .main-button:hover {
-  background-color: #0090ff;
+  background-color: #d48c49;
   box-shadow: none;
   -webkit-transform: scale(0.95);
   -ms-transform: scale(0.95);
@@ -790,14 +791,14 @@ a {
   margin-left: 0px;
 }
 
-/* styling for image to the right of the "about" section */
+/* styling for right image of the "about" section */
 .image-12 {
   position: absolute;
   left: auto;
   top: 0px;
   right: 0px;
   bottom: auto;
-  width: 50%;
+  width:50%;
 }
 
 .image-12.faq {
@@ -926,11 +927,11 @@ a {
   box-shadow: 6px -6px 0 0 #0090ff;
 }
 */
-/* h1 for the main heading in the first section*/
+
 .div-h1 {
   margin-top: 60px;
   margin-bottom: 30px
-  font-size: 12px;
+  font-size: 5px;
 }
 
 .paragraph-7 {
@@ -1269,8 +1270,8 @@ a {
   position: relative;
   z-index: 1;
   width: 20%;
-  padding-top: 100px;
-  padding-left: 0px;
+  padding-top: 380px;
+  padding-left: 20px;
 }
 
 .text-2 {
@@ -1386,9 +1387,10 @@ a {
   justify-content: center;
 }
 
+/* color for bar below the main heading with "Join slack button"*/
 .section-p.less-passing {
   padding: 40px 40px 40px 50px;
-  background-color: #003662;
+  background-color: #691d19;
 }
 
 .section-p.less-passing.ideas {
@@ -1644,7 +1646,7 @@ a {
   background-image: url('../images/austindark.svg');
 }
 
-/* color for main section background*/
+/* color for main section background and image on the right side*/
 .main-section-2 {
   position: relative;
   display: -webkit-box;
@@ -1667,8 +1669,8 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #ffffff;
-  background-image: url('');
+  background-color: #fff9e4;
+  background-image: url('../images/capitolAustin2.png');
   background-position: 100% 100%;
   background-size: auto 60%;
   background-repeat: no-repeat;
@@ -1706,7 +1708,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #ffffff;
+  background-color: #fff9e4;
   background-image: url('../images/Group-47386_1.png');
   background-position: 0% 95%;
   background-size: 15%;
@@ -2503,7 +2505,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #003662;
+  background-color: #fff9e4;
 }
 
 .navbar-logo-left-container {
@@ -3812,7 +3814,7 @@ a {
   padding-left: 43px;
   border: 2px solid #000;
   background-color: #fc3;
-  box-shadow: 5px -5px 0 0 #000, 10px -10px 0 0 #0090ff;
+  box-shadow: 5px -5px 0 0 #000, 10px -10px 0 0 #ffbb00;
   opacity: 1;
   -webkit-transition: all 575ms ease;
   transition: all 575ms ease;
@@ -4135,14 +4137,14 @@ width: 50%;
     border-style: solid;
     border-width: 2px;
     border-color: #000;
-    background-color: #0090ff;
-    box-shadow: 5px -5px 0 0 #000, 10px -10px 0 0 #0090ff;
+    background-color: #d48c49;
+    box-shadow: 5px -5px 0 0 #000, 10px -10px 0 0 #d48c49;
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
     color: #1e1e1e;
     font-size: 24px;
     line-height: 28px;
     font-weight: 700;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
   }
 
   .main-button.absolut {
@@ -4167,10 +4169,12 @@ width: 50%;
     align-items: center;
   }
 
+/* h1 for the main heading in the first section*/
+
   .h1 {
     margin-top: 0px;
-    margin-bottom: 0px;
-    font-size: 96px;
+    margin-bottom: 50px;
+    font-size: 75px;
     line-height: 115px;
     text-align: center;
   }
@@ -4289,15 +4293,16 @@ width: 50%;
     background-color: #fecb3c;
   }
 
+  /* css for the text in the subheading below main heading */
   .paragraph-2 {
-    margin-bottom: 0px;
-    font-size: 36px;
+    font-size: 25px;
     line-height: 43px;
   }
 
+    /* more css for the right image in the main section */
   .main-section-2 {
     position: relative;
-    background-size: auto 70%, auto;
+    background-size: auto 55%, auto;
   }
 
   .main-section-2.travel {
