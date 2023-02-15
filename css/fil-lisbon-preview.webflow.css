@@ -522,6 +522,7 @@ a {
   font-size: 48px;
   line-height: 57px;
   font-weight: 300;
+  padding-left: 100px;
 }
 
 .text-1.faq {
@@ -628,6 +629,7 @@ a {
   color: #003662;
   font-size: 18px;
   line-height: 22px;
+  padding-left: 100px;
 }
 
 .footer-divider {
@@ -798,7 +800,7 @@ a {
   top: 0px;
   right: 0px;
   bottom: auto;
-  width: 70%;
+  width: 90%;
 }
 
 .image-12.faq {
@@ -1121,6 +1123,7 @@ a {
   font-weight: 500;
   letter-spacing: 20px;
   text-transform: uppercase;
+  padding-left: 100px;
 }
 
 .h2.conference {
@@ -1812,7 +1815,7 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 0%;
+  width: 70%;
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
   -ms-flex-pack: start;
