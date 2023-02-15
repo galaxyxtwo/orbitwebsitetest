@@ -294,8 +294,8 @@ a {
   padding-right: 57px;
   padding-left: 43px;
   border: 2px solid #000;
-  background-color: #fc3;
-  box-shadow: 5px -5px 0 0 #000, 10px -10px 0 0 #0090ff;
+  background-color: #d48c49;
+  box-shadow: 5px -5px 0 0 #000, 10px -10px 0 0 #d48c49;
   -webkit-transition: all 575ms ease;
   transition: all 575ms ease;
   font-family: 'Anek Latin', sans-serif;
