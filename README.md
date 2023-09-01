@@ -1,5 +1,7 @@
 # orbitwebsite
 Website for Filecoin Orbit Austin based on the Filecoin-Lisbon website[Thank you Filecoin!]
 
-To start
-- Run node server.js
+### Colors 
+- Dark blue #1B4B78
+
+- Light blue #DBE9F7
